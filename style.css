@@ -1,1 +1,191 @@
+body{
+    background: #004C50;
+    width: 1000px;
+}
 
+.nazva{
+    text-align: center;
+    color:white;
+}
+
+.play{
+       font-family: 'Minecraft', sans-serif;
+    color:white;
+        background-color: #011b45;
+        padding:20px;
+        width:700px;
+        border-bottom: 20px dashed white;
+ }
+
+
+
+.topmine{
+    font-size:17px;
+    color:blue;
+}
+
+.imgmine{
+    position:absolute;
+    top:120px;
+    left:200px;
+}
+
+.info p:hover{
+  color:grey;
+}
+
+li:hover{
+    color:grey;
+}
+
+.play h2:hover{
+    color:green;
+}
+
+
+span{
+    color:green;
+}
+
+.play p{
+    color:white;
+}
+
+.k{
+    position:absolute;
+    top:680px;
+    left: 250px;
+}
+
+
+.y{
+       position:absolute;
+    top:2230px;
+    left: 300px;
+}
+
+img{
+    opacity: 0.2;
+}
+
+img:hover{
+    opacity:1;
+}
+
+
+.v{
+    position: absolute;
+    top:2680px;
+    left:400px
+}
+
+aside img{
+    opacity:1;
+    border: 8px dashed darkblue;
+
+}
+
+aside{
+    position: absolute;
+    top:300px;
+    left:770px;
+    color:white;
+    background-color: #00122e;
+}
+
+.b{
+   position:relative;
+   left:60px 
+}
+
+ aside span{
+background-color: yellow;
+color:black;
+}
+
+
+footer p{
+    color:white;
+    font-size: 30px;
+}
+
+
+.play2{
+       font-family: 'Minecraft', sans-serif;
+    color:white;
+        background-color: #000d21;
+        padding:20px;
+        width:700px;
+        border-bottom: 20px dashed white;
+ }
+
+
+ footer a{
+  font-size:40px;
+  color:white;
+  -webkit-text-stroke-color: #000;
+-webkit-text-stroke-width: 2px;
+text-decoration: none;
+border-bottom:10px dotted green;
+padding: 1px;
+ }
+
+
+ footer span{
+ font-family: FreeMono, monospace;
+ font-size: 50px;
+ color:grey;
+ }
+
+
+ .ui{
+     position: absolute;
+    top:900px;
+    left:770px;
+    color:white;
+    background-color: #00122e;
+ }
+
+
+  .iu{
+     position: absolute;
+    top:1500px;
+    left:770px;
+    color:white;
+    background-color: #00122e;
+ }
+
+ .pbv{
+    position: absolute;
+    top:100px;
+    left:880px;
+    color:white;
+    font-size: 70px;
+    font-family: segoe UI;
+ }
+
+
+
+ footer a:hover{
+  font-size:48px;
+  color:black;
+  -webkit-text-stroke-color: white;
+-webkit-text-stroke-width: 1px;
+border-bottom:10px dotted blue;
+ }
+
+  footer a:focus{
+  font-size:50px;
+  color:darkblue;
+  -webkit-text-stroke-color: white;
+-webkit-text-stroke-width: 1px;
+border-bottom:10px dotted blue;
+ }
+
+  footer a:visited{
+  font-size:40px;
+  color:blueviolet;
+  -webkit-text-stroke-color: #2a0142;
+-webkit-text-stroke-width: 1px;
+border-bottom:10px dotted violet;
+ }
