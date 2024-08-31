@@ -1,11 +1,13 @@
 body{
-    background: #004C50;
-    width: 1000px;
+    background-image:url(https://assets.turbologo.ru/blog/ru/2021/10/30071021/background4.png);
 }
+
 
 .nazva{
     text-align: center;
     color:white;
+    position: relative;
+    bottom: 250px;
 }
 
 .play{
@@ -26,7 +28,7 @@ body{
 
 .imgmine{
     position:absolute;
-    top:120px;
+    top:475px;
     left:200px;
 }
 
@@ -53,8 +55,8 @@ span{
 
 .k{
     position:absolute;
-    top:680px;
-    left: 250px;
+    top:1015px;
+    left: 265px;
 }
 
 
@@ -94,8 +96,9 @@ aside{
 }
 
 .b{
-   position:relative;
-   left:60px 
+        position: relative;
+   left: 60px;
+
 }
 
  aside span{
@@ -140,8 +143,8 @@ padding: 1px;
 
  .ui{
      position: absolute;
-    top:900px;
-    left:770px;
+    top:1000px;
+    left: 1150px;
     color:white;
     background-color: #00122e;
  }
@@ -150,7 +153,7 @@ padding: 1px;
   .iu{
      position: absolute;
     top:1500px;
-    left:770px;
+    left: 1150px;
     color:white;
     background-color: #00122e;
  }
@@ -158,7 +161,7 @@ padding: 1px;
  .pbv{
     position: absolute;
     top:100px;
-    left:880px;
+    left: 1150px;
     color:white;
     font-size: 70px;
     font-family: segoe UI;
@@ -174,6 +177,7 @@ padding: 1px;
 border-bottom:10px dotted blue;
  }
 
+
   footer a:focus{
   font-size:50px;
   color:darkblue;
@@ -182,10 +186,83 @@ border-bottom:10px dotted blue;
 border-bottom:10px dotted blue;
  }
 
-  footer a:visited{
+  footer a
+  :visited{
   font-size:40px;
   color:blueviolet;
   -webkit-text-stroke-color: #2a0142;
 -webkit-text-stroke-width: 1px;
 border-bottom:10px dotted violet;
  }
+
+
+.hamster{
+     position: absolute;
+    top:2100px;
+    left:1150px;
+    color:white;
+    background-color: #00122e;
+ }
+
+
+
+ .t{
+     position: absolute;
+    top: 450px;
+    left:1150px;
+    color:white;
+    background-color: #00122e;
+ }
+
+.lam{
+ position: absolute;
+    top:2700px;
+    left:1150px;
+    color:white;
+    background-color: #00122e;
+     }
+
+
+     .pfnc{
+       }
+
+
+
+
+header img{
+    opacity: 0.8;
+  width: 1500px;
+  height: 400px;
+  position: relative;
+  top: 150px;
+}
+
+
+header img:hover{
+    opacity:1;
+}
+
+.ad h1{
+color: blue;
+position: absolute;
+top: 250px;
+left: 1250px;
+}
+
+
+footer{
+    background-image: url(https://s.tmimgcdn.com/scr/800x500/345800/temno-sinij-teksturirovannyj-fon--sinij-fon-steny_345820-original.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+main{
+    position: relative;
+    top: 50px;
+}
